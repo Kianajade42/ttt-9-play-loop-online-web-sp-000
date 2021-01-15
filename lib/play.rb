@@ -41,4 +41,3 @@ loop turn
   until play == 9
   end
 end
-
