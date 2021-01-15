@@ -41,5 +41,5 @@ def play(board)
   until play == 9 do
     puts "Please enter 1-9:"
     play += 1
-
+end
   end
